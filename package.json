@@ -1,0 +1,21 @@
+{
+  "name": "cleverrulio",
+  "version": "0.1.0",
+  "description": "A Rulio module that makes him...Clever-ish",
+  "main": "cleverrulio.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foliveira/clever-rulio.git"
+  },
+  "keywords": [
+    "rulio",
+    "irc",
+    "module",
+    "cleverbot"
+  ],
+  "engines": {
+    "node": ">=0.6.9"
+  },
+  "author": "Fábio Oliveira <fabio.an.oliveira@gmail.com>",
+  "license": "BSD"
+}
