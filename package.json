@@ -1,6 +1,6 @@
 {
   "name": "cleverrulio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Rulio module that makes him...Clever-ish",
   "main": "cleverrulio.js",
   "repository": {
