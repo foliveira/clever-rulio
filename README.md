@@ -5,11 +5,13 @@
 
 ## Install
 
-One day, I'll have the time to `npm publish` CleverRulio. Then, you'll be able to install CleverRulio by running this on your Rulio folder:
+Just run  on your Rulio folder:
 
     npm install cleverrulio
 
-Until then, you can use it the same way you would if you were developing for it -- with [npm link](https://npmjs.org/doc/link.html). And maybe you can make a contribution!
+And CleverRulio will be installed as a node module for Rulio.
+
+Alternatively, if you are developing around CleverRulio, you could:
 
 #### Install with npm link
 
@@ -21,7 +23,7 @@ Then, in your Rulio folder:
 
     npm link cleverrulio
 
-This will create a symlink in node_modules to the repo you cloned, and Node.js will be able to load it like any installed npm module. And this way you can change cleverrulio and have Rulio know about those changes instantly. 
+This will create a symlink in node_modules to the repo you cloned, and node.js will be able to load it like any installed npm module. And this way you can change cleverrulio and have Rulio know about those changes instantly. 
 
 ## Tell Rulio to load CleverRulio
 
